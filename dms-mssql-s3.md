@@ -2,7 +2,7 @@
 
 - Key Pair 생성
 
-여기를 [here ](http://amzn.to/2kcoMQp) 를 Click하여 Key Pair로 이동합니다. 
+[여기 ](http://amzn.to/2kcoMQp) 를 새 창으로 띄워서 Key Pair로 이동합니다. 
 
 "Create Key Pair"를 클릭합니다.
 
