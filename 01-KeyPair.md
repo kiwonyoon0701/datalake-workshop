@@ -1,4 +1,4 @@
-### Key Pair 생성
+## Key Pair 생성
 
 1. [여기 ](http://amzn.to/2kcoMQp) 를 새 창(새 탭)으로 띄워서 Key Pair로 이동합니다. 
 
