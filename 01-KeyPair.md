@@ -12,9 +12,9 @@
 
 ---
 
-3. DMSKeyPair라고 입력하고 "Create"를 클릭 합니다. 자동으로 DMSKeyPair.pem 파일이 다운로드 됩니다.
+3. DMSKeyPair라고 입력하고 "Create"를 클릭 합니다. 자동으로 DMSKeyPair.pem(또는 DMSKeyPair.cer) 파일이 다운로드 됩니다.
 
-   해당 pem 파일을 잘 저장해둡니다.
+   해당 pem(cer) 파일을 잘 저장해둡니다.
 
 ![image-20220326235214062](images/image-20220326235214062.png)
 
